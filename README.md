@@ -24,7 +24,8 @@ Tus tareas consisten en:
 ### Captura de pantalla: 
 <img src='PerfilGit.png' width='900px'>
 
-
+### Captura tablero Trello final:
+<img src='TableroTrelloFinal.png' width='900px'>
 
 ### Víctor M. Rivas Santos
 <img src='/vrivas-2022.png' width='200px'>
