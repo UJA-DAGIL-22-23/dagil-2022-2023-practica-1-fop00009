@@ -14,6 +14,13 @@ Tus tareas consisten en:
   
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
+URL del tablero de trello: https://trello.com/b/cDTvyz94/fop00009
+### Contenido:
+<img src='TableroInicial.png' width='900px'>
+
+
+
+
 ### Víctor M. Rivas Santos
 <img src='/vrivas-2022.png' width='200px'>
 
